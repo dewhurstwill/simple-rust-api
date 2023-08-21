@@ -4,7 +4,7 @@
 
 `warp` – A web server framework for Rust
 
-`serde – A framework for serializing and deserializing Rust data structures to and from various data formats like JSON, XML, etc.
+`serde` – A framework for serializing and deserializing Rust data structures to and from various data formats like JSON, XML, etc.
 
 `chrono` – Has utility functions for manipulating Date and Time in Rust.
 
