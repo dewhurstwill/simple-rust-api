@@ -1,6 +1,6 @@
-# Simple Rust API
+# Simple Rust API ⚙️
 
-## Packages
+## Packages 📦
 
 `warp` – A web server framework for Rust
 
@@ -14,13 +14,13 @@
 
 `uuid` – A library for generating and parsing UUIDs in Rust.
 
-## Dev
+## Dev 💻
 
 ```bash
 cargo watch -q -c -w src/ -x run
 ```
 
-## Build Release
+## Build Release 🚀
 
 ```bash
 cargo build --release
